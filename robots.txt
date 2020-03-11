@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahtualahv.uxwine.com/sitemap.xml
